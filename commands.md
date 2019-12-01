@@ -29,4 +29,4 @@ Here you can find the commands of Drizzle Support.
 
 
 
-• If you have any command suggestions, contact Jees1#5825
+• If you have any command suggestions, contact Jees1#5825 in Discord.
