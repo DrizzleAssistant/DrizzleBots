@@ -23,3 +23,10 @@ Here you can find the commands of Drizzle Support.
 `-ranks` Posts the ranks of Drizzle Hotel.
 
 `-executives` Posts the executives of Drizzle Hotels.
+
+
+
+
+
+
+• If you have any command suggestions, contact Jees1#5825
