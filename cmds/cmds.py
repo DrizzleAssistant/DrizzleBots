@@ -25,7 +25,7 @@ class cmds(commands.Cog):
         embed.description = """
                 You can view my commands [here.](https://github.com/DrizzleAssistant/DrizzleBots/blob/master/announcement-cmds.md)
             """
-        embed.set_footer(text="These commands can only be used by a SHR.")
+        embed.set_footer(text="These commands can only be used by users with the Announcements role.")
         embed.color = self.bot.main_color
         return await ctx.send(embed=embed)
 
