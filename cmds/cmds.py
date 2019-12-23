@@ -15,7 +15,7 @@ class cmds(commands.Cog):
         self.bot = bot
 
     @commands.command(aliases=["help"])
-    @checks.has_permissions(PermissionLevel.REGULAR)
+    @checks.has_permissions(PermissionLevel.ADMINISTRATOR)
     async def cmds(self, ctx):
         """"""
         embed = discord.Embed(
