@@ -16,4 +16,4 @@ To ask staff to the **hotel**, say `+needed`
 
 # Suggestions
 
-Suggestions for the bot go to `Jees1#5825` in (https://discordapp.com)[Discord.]
+Suggestions for the bot go to `Jees1#5825` in [https://discordapp.com] (Discord.)
